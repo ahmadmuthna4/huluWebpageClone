@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/huluWebpageClone/static/css/main.8cb2a0c2.css",
+    "main.js": "/huluWebpageClone/static/js/main.f4660475.js",
+    "static/media/cover-3.jpg": "/huluWebpageClone/static/media/cover-3.39a313a597c7aa3789ed.jpg",
+    "static/media/cover-4.jpg": "/huluWebpageClone/static/media/cover-4.68207c45d0202dec6a27.jpg",
+    "static/media/cover-1.jpg": "/huluWebpageClone/static/media/cover-1.8408422eeb4060803aa5.jpg",
+    "static/media/cover-2.jpg": "/huluWebpageClone/static/media/cover-2.52c1ab6ff2e7f60897d5.jpg",
+    "static/media/live-sports.jpg": "/huluWebpageClone/static/media/live-sports.796aa99fc56de5678de1.jpg",
+    "static/media/live-sports-small.jpg": "/huluWebpageClone/static/media/live-sports-small.0105b2ae32355e3e071a.jpg",
+    "static/media/header.jpg": "/huluWebpageClone/static/media/header.7fb486ac381510f83baa.jpg",
+    "static/media/logos.png": "/huluWebpageClone/static/media/logos.322e3f98b6a13eb39cd6.png",
+    "static/media/live-sports-logo-3.svg": "/huluWebpageClone/static/media/live-sports-logo-3.4a645e5182a020fe9f14d4ed65aff8a5.svg",
+    "index.html": "/huluWebpageClone/index.html",
+    "main.8cb2a0c2.css.map": "/huluWebpageClone/static/css/main.8cb2a0c2.css.map",
+    "main.f4660475.js.map": "/huluWebpageClone/static/js/main.f4660475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb2a0c2.css",
+    "static/js/main.f4660475.js"
+  ]
+}
